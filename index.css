@@ -13,12 +13,12 @@ p {
 em {
     font-family: serif;
 }
+p.blueberry {
+    color: purple;
+}
 p.greentea {
     color: green;
 }
 p.raspberry {
     color: blue;
-}
-p.blueberry {
-    color: purple;
 }
